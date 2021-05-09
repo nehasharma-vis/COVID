@@ -1,4 +1,3 @@
-s<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>The Alexander Apartments</title>
